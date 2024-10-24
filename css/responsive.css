@@ -1,4 +1,8 @@
 @media screen and (max-width: 480px){
+
+	#about {
+		margin-top: 50px !important;
+	  }
 	/*----- layout ----*/
 	.grey-bg, .white-bg{
 		padding: 40px 0; 
@@ -26,6 +30,7 @@
 	/*---- quote -----*/
 	.wrap-about{ 
 		padding: 0 0 20px 0;
+		margin-top: 3%;
 		min-height: 400px !important;
 	}
 	.wrap-about .w-content{
